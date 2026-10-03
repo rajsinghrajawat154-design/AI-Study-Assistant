@@ -5,7 +5,7 @@ Building AI course project
 ## Background
 Students often have long notes and limited time to revise them. Finding the most important concepts manually can take a lot of time.
 The goal of this project is to make revision easier by using AI/NLP techniques to process educational text and turn it into useful study material.
-## How is it used?
+## How is it used???
 The user enters or uploads study notes. The system processes the text and provides:
 1. Short summary of the notes.
 2. Important keywords/topics.
